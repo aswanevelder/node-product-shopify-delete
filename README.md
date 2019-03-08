@@ -1,4 +1,4 @@
-# node-product-shopify-delete
+# node-shopify-product-delete
 NodeJS function for delete products from Shopify
 
 **Environment Variables**
